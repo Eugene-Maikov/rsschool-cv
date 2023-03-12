@@ -18,6 +18,14 @@ As a web developer, I am constantly developing and learning new technologies. I 
 - Git
 
 ## __Code Example__
+```
+function multiply(a, b){
+  return a * b
+}
+
+let result = multiply(2, 3);
+console.log( result );
+```
 
 ## __Experience__
 - Currently I work in a small IT company. We develop websites for CMS (wordpress, bitrix)
