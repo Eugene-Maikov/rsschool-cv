@@ -20,7 +20,7 @@ As a web developer, I am constantly developing and learning new technologies. I 
 ## __Code Example__
 
 ## __Experience__
-
+- Currently I work in a small IT company. We develop websites for CMS (wordpress, bitrix)
 
 ## __Education__ 
 - __College:__ Nizhny Novgorod Provincial College, Specialty development of web and multimedia applications
