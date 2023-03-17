@@ -1,0 +1,52 @@
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+body {
+  font-family: "Arial", sans-serif;
+  background: #d5d5ff;
+}
+html,
+body {
+  height: 100%;
+}
+a {
+  text-decoration: none;
+  color: #000;
+  display: inline-block;
+}
+.container {
+  max-width: 1900px;
+  margin: 0 auto;
+  padding: 0 10px;
+}
+.wrapper {
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.header {
+  height: 100px;
+  background: #bd9302;
+}
+.main {
+  background: #0a6a56;
+  flex-grow: 1;
+  /* flex: 1 0 auto */
+}
+.footer {
+  height: 100px;
+  background: #a82b11;
+}
+
+/* Временные стили - удалить */
+.header,
+.main,
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  font-size: 34px;
+}
